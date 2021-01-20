@@ -1,0 +1,10 @@
+{
+  "Name": "Stardew Valley Enchanted Weapons",
+  "Author": "Joeborder",
+  "Version": "1.0.0",
+  "Description": "Adds the ability to enchant basic weapons which can be used in combat",
+  "UniqueID": "joeborder.stardewvalleyenchantedweapons",
+  "EntryDll": "SVEnchantedWeapons.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

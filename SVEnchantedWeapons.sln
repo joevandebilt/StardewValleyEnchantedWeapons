@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVEnchantedWeapons", "SVEnchantedWeapons\SVEnchantedWeapons.csproj", "{98386CA1-BC02-4C14-AB4B-FEBB688A83FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98386CA1-BC02-4C14-AB4B-FEBB688A83FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98386CA1-BC02-4C14-AB4B-FEBB688A83FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98386CA1-BC02-4C14-AB4B-FEBB688A83FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98386CA1-BC02-4C14-AB4B-FEBB688A83FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6FDBA9-19FC-431E-8349-302BC37CDBDC}
+	EndGlobalSection
+EndGlobal
